@@ -11,8 +11,8 @@
       "area": "Artificial Intelligence",
       "studyType": "MS/Ph.D. Integrated Program",
       "startDate": "2021-08",
-      "endDate":"",
-      "score":3
+      "endDate": "",
+      "score": 3
     },
     {
       "institution": "Carnegie Mellon University",
@@ -21,8 +21,8 @@
       "area": "Language Technologies Institute",
       "studyType": "Visiting student",
       "startDate": "2022-01",
-      "endDate":"2022-07",
-      "score":2
+      "endDate": "2022-07",
+      "score": 2
     },
     {
       "institution": "Pohang University of Science and Technology (POSTECH)",
@@ -31,8 +31,8 @@
       "area": "Computer Science and Engineering",
       "studyType": "BS",
       "startDate": "2017-02",
-      "endDate":"2021-06",
-      "score":1
+      "endDate": "2021-06",
+      "score": 1
     }
   ],
   "awards": [

@@ -7,9 +7,9 @@
     {
       "institution": "Pohang University of Science and Technology (POSTECH)",
       "location": "Pohang, South Korea",
-      "url": "https://www.postech.ac.kr/",
+      "url": "https://ai.postech.ac.kr/",
       "area": "Artificial Intelligence",
-      "studyType": "M.S./Ph.D. Integrated Program",
+      "studyType": "MSc/PhD Integrated Program",
       "startDate": "2021-08",
       "endDate": "",
       "score": 3
@@ -29,7 +29,7 @@
       "location": "Pohang, South Korea",
       "url": "https://www.postech.ac.kr/",
       "area": "Computer Science and Engineering",
-      "studyType": "B.S.",
+      "studyType": "BSc",
       "startDate": "2017-02",
       "endDate": "2021-06",
       "score": 1
@@ -75,6 +75,33 @@
   ],
   "teachings": [
     {
+      "title": "[CSED499] Research Project",
+      "date": "Spring 2024",
+      "role": "Mentor"
+    },
+    {
+      "title": "[CSED211] Introduction to Computer Software Systems",
+      "date": "Fall 2023",
+      "role": "Teaching Assistant"
+    },
+    {
+      "title": "[CSED499] Research Project",
+      "date": "Spring 2023",
+      "role": "Mentor"
+    },
+    {
+      "title": "[CSED490F] Signal Processing",
+      "date": "Fall 2022",
+      "role": "Teaching Assistant"
+    },
+    {
+      "title": "[CSED199] Freshman Research Participation",
+      "date": "Fall 2021",
+      "role": "Mentor"
+    }
+  ],
+  "awards": [
+    {
       "title": " Prize in Physics",
       "date": "1921-11-01",
       "awarder": "Royal Swedish Academy of Sciences",
@@ -90,7 +117,7 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Proficient",
       "icon": ""
     }
   ],
@@ -106,18 +133,6 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [

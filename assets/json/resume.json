@@ -17,7 +17,7 @@
     {
       "institution": "Carnegie Mellon University",
       "location": "Pittsburgh, USA",
-      "url": "https://www.cmu.edu/",
+      "url": "https://www.lti.cs.cmu.edu",
       "area": "Language Technologies Institute",
       "studyType": "Visiting student",
       "startDate": "2022-01",
@@ -37,78 +37,60 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "OCL: Ordinal Contrastive Learning for Imputating Features with Progressive Labels",
+      "publisher": "<b>MICCAI 2024</b> - Early Accept (top ~11%) ",
+      "releaseDate": "2024-05",
+      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Modality-Agnostic Style Transfer for Holistic Feature Imputation",
+      "publisher": "<b>IEEE ISBI 2024</b> - Oral Presentation (top ~14%)",
+      "releaseDate": "2024-01",
+      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Learning Covariance-Based Multi-Scale Representation of Neuroimaging Measures for Alzheimer Classification",
+      "publisher": "<b>IEEE ISBI 2023</b> - Poster Presentation",
+      "releaseDate": "2023-01",
+      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie"
     }
   ],
   "teachings": [
     {
-      "title": "[CSED499] Research Project",
+      "title": "<b>[CSED499]</b> Research Project",
       "date": "Spring 2024",
       "role": "Mentor"
     },
     {
-      "title": "[CSED211] Introduction to Computer Software Systems",
+      "title": "<b>[CSED211]</b> Introduction to Computer Software Systems",
       "date": "Fall 2023",
       "role": "Teaching Assistant"
     },
     {
-      "title": "[CSED499] Research Project",
+      "title": "<b>[CSED499]</b> Research Project",
       "date": "Spring 2023",
       "role": "Mentor"
     },
     {
-      "title": "[CSED490F] Signal Processing",
+      "title": "<b>[CSED490F]</b> Signal Processing",
       "date": "Fall 2022",
       "role": "Teaching Assistant"
     },
     {
-      "title": "[CSED199] Freshman Research Participation",
+      "title": "<b>[CSED199]</b> Freshman Research Participation",
       "date": "Fall 2021",
       "role": "Mentor"
     }
   ],
-  "awards": [
-    {
-      "title": " Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
+  // "grants": [
+  //   {
+  //     "title": "Jigok Scholarship",
+  //     "date": "1921-11-01",
+  //     "awarder": "Royal Swedish Academy of Sciences",
+  //     "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+  //     "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+  //   }
+  // ],
   "languages": [
     {
       "language": "Korean",
@@ -123,26 +105,24 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Artificial Intelligence",
+      "icon": "fa-solid fa-robot",
+      "keywords": ["Computer Vision & Machine Learning", "Representation Learning", "Data Efficient Learning", "Signal Processing"]
+    },
+    {
+      "name": "Medical Imaging",
+      "icon": "fa-solid fa-brain",
+      "keywords": ["Alzheimer's Disease", "Adolescent Brain Development"]
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "AI-Driven BGA Solder Joint Failure Detection of PCB Assembly",
+      "summary": "POSTECH & SK hynix Research Project.<br>(1 domestic conference paper & 1 patent application)",
+      "highlights": ["Object Detection", "Long-tail Recognition"],
+      "startDate": "2023-03-01",
+      "endDate": "2023-10-01",
+      "url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11701476"
     }
   ]
 }

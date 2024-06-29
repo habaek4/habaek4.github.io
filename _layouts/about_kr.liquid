@@ -42,9 +42,7 @@ layout: default
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news_kr/' | relative_url }}" style="color: inherit">새로운 소식</a>
-      </h2>
+      <h2>새로운 소식</h2>
       {% include news_kr.liquid limit=true %}
     {% endif %}
 

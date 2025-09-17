@@ -16,16 +16,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I’m Seunghun Baek, a third-year integrated MSc/PhD student in the [Medical Information Processing Lab](https://mip.postech.ac.kr) at POSTECH, supervised by [Dr. Won Hwa Kim](https://wwplato.github.io).
+I’m Seunghun Baek, a fifth-year integrated MSc/PhD student in the [Medical Information Processing Lab](https://mip.postech.ac.kr) at POSTECH, supervised by [Dr. Won Hwa Kim](https://wwplato.github.io).
 My research focuses on learning representations in data-efficient ways, with a particular interest in signal processing.
 I am especially interested in applying these methods to real-world medical scenarios, particularly those involving the human brain.
 
 #### Research Interest
 
 <ul>
- <li>Computer Vision & Machine Learning</li>
  <li>Representation Learning</li>
  <li>Data Efficient Learning</li>
+ <li>Incomplete Multimodal Learning</li>
  <li>Medical Imaging (Brain) </li>
 </ul>
 

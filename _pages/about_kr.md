@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-저는 [포항공과대학교 인공지능대학원](https://ai.postech.ac.kr)의 [의료정보처리연구실](https://mip.postech.ac.kr)에서 [김원화 교수님](http://wwplato.github.io)의 지도 아래에서 3년차 석/박사 통합과정에 재학중인 백승훈입니다.
+저는 [포항공과대학교 인공지능대학원](https://ai.postech.ac.kr)의 [의료정보처리연구실](https://mip.postech.ac.kr)에서 [김원화 교수님](http://wwplato.github.io)의 지도 아래에서 4년차 석/박사 통합과정에 재학중인 백승훈입니다.
 저의 연구는 주로 신호 처리를 기반으로 양이 적거나 결측값이 있는 데이터로부터 작업(e.g., 분류, 생성)에 효과적인 표현을 학습하는 데 초점을 맞추고 있습니다.
 저는 이러한 방법론을 연구하는 것에서 더 나아가, 이를 인간의 뇌와 같은 실제 의료 데이터에 적용함으로써 의료 분야에서의 응용 가능성을 탐구하고 있습니다.
 

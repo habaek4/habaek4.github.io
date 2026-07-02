@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-1 paper accepted to <b>ECCV 2026</b> [🇸🇪](https://eccv.ecva.net).
+1 paper accepted to <b>ECCV 2026</b> [:sweden:](https://eccv.ecva.net).

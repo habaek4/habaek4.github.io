@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<b>ECCV 2026</b> [🇸🇪](https://eccv.ecva.net) 학회에 논문 한 편이 수락되었습니다.
+<b>ECCV 2026</b> [:sweden:](https://eccv.ecva.net) 학회에 논문 한 편이 수락되었습니다.
